@@ -1,6 +1,5 @@
-package fr.ma.springboot.controller;
+package fr.ma.blank.controller;
 
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

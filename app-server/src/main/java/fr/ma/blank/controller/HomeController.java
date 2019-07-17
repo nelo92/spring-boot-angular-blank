@@ -1,4 +1,4 @@
-package fr.ma.springboot.controller;
+package fr.ma.blank.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
